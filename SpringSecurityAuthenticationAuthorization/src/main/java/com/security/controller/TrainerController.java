@@ -14,6 +14,10 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.security.model.Subject;
 
+/**
+ * @author Vinod.nagulkar
+ *
+ */
 @RestController
 public class TrainerController 
 {

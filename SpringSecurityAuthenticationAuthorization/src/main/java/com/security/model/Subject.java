@@ -1,5 +1,9 @@
 package com.security.model;
 
+/**
+ * @author Vinod.nagulkar
+ *
+ */
 public class Subject 
 {
 	private int subId;
